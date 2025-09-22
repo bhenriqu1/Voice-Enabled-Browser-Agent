@@ -230,16 +230,6 @@ DEBUG = True
 LOG_LEVEL = "DEBUG"
 ```
 
-## 🙏 Acknowledgments
-
-- [Deepgram](https://deepgram.com/) for speech-to-text
-- [OpenAI](https://openai.com/) for language understanding
-- [Browserbase](https://browserbase.com/) for browser automation
-- [Mem0](https://mem0.ai/) for memory management
-- [Redis](https://redis.io/) for caching
-- [FastAPI](https://fastapi.tiangolo.com/) for web framework
-
-
 ## System Design
 
 
