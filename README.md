@@ -240,5 +240,7 @@ LOG_LEVEL = "DEBUG"
 - [FastAPI](https://fastapi.tiangolo.com/) for web framework
 
 
-System Design:
+## System Design
+
+
 <img width="740" height="266" alt="Screenshot 2025-09-20 at 9 41 17 PM" src="https://github.com/user-attachments/assets/6f5de3b5-3781-443b-877c-e73af2ead1d2" />
