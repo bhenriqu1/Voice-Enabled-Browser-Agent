@@ -1,6 +1,6 @@
 # 🎤 Voice-Enabled Browser Agent
 
-A sophisticated AI-powered browser automation system that listens to natural speech, converts it into structured commands, and executes them in a real browser session. The system leverages speech-to-text, intent parsing, Redis caching, and Browserbase for reliable headless browser automation.
+AI-powered browser automation system that listens to natural speech, converts it into structured commands, and executes them in a real browser session. The system leverages speech-to-text, intent parsing, Redis caching, and Browserbase for reliable headless browser automation.
 
 ## 🌟 Features
 
@@ -230,18 +230,6 @@ DEBUG = True
 LOG_LEVEL = "DEBUG"
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - [Deepgram](https://deepgram.com/) for speech-to-text
@@ -251,13 +239,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Redis](https://redis.io/) for caching
 - [FastAPI](https://fastapi.tiangolo.com/) for web framework
 
-## 📞 Support
 
-For support and questions:
-- Create an issue on GitHub
-- Check the troubleshooting section
-- Review the API documentation
-
----
-
-**Happy browsing with voice control! 🎤🌐**
+System Design:
+<img width="740" height="266" alt="Screenshot 2025-09-20 at 9 41 17 PM" src="https://github.com/user-attachments/assets/6f5de3b5-3781-443b-877c-e73af2ead1d2" />
